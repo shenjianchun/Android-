@@ -60,3 +60,7 @@
 
 * [Android 快速发布开源项目到jcenter](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=403336396&idx=1&sn=bb2b9e87ab7a537172694281996ef26c&scene=23&srcid=0505VuLMwSqULe3FFPel21bK#rd)
 
+## Git 分支管理
+
+* [Git分支管理策略](http://arganzheng.life/git-branch-strategy.html)
+
