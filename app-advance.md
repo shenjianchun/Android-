@@ -11,6 +11,10 @@
 * [Android 项目最新架构 Google提供](https://juejin.im/post/59526e18f265da6c3d6c0ac9)
 * [安居客Android项目架构演进](https://juejin.im/post/58b073c5b123db0052c03fb1)
 
+## 依赖注入
+
+* [Jetpack新成员，一篇文章带你玩转Hilt和依赖注入](https://mp.weixin.qq.com/s/OEX1d2cU1zGG5BBM-nANBg)
+
 ## AccessibilityService 辅助功能
 
 * [AccessibilityService分析与防御](https://lizhaoxuan.github.io/2018/01/27/AccessibilityService%E5%88%86%E6%9E%90%E4%B8%8E%E9%98%B2%E5%BE%A1/)
