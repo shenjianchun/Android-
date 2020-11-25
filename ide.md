@@ -23,6 +23,8 @@
     * ADB Idea , 一键清理缓存、卸载，重启 APP
   * 参考
     * [Android Studio 常用插件整理](http://sstlant.com/2017/08/19/Android%20Studio%20常用插件整理/#more)
+* 调试Debug
+  * [官方教你 Android Studio Debug 技巧咯！](https://mp.weixin.qq.com/s/ppJ-pRDifyPpQoPIyYbxww)
 * Template 模板
   * [神奇的Android Studio Template](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820341&idx=1&sn=fa0b3094e1970989ffdff05c878ba53d&scene=0#wechat_redirect)
   * [让你变懒的 Android Studio Live Templates](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662184&idx=1&sn=5fc27594b4e13a74cde76ed8678a20f1#rd)
