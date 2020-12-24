@@ -15,4 +15,5 @@
 * [26款优秀的Android逆向工程工具](http://www.freebuf.com/sectool/111532.html)
 * [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
 * [Windows Git Tip: Hide ^M \(Carriage Return\) in Diff](https://lostechies.com/keithdahlby/2011/04/06/windows-git-tip-hide-carriage-return-in-diff/)
+* [能否让APP永不崩溃](https://juejin.cn/post/6904283635856179214)
 
