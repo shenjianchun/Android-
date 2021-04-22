@@ -7,6 +7,7 @@
 * [ 彻底弄懂Activity四大启动模式](http://blog.csdn.net/mynameishuangshuai/article/details/51491074)
 * [\[CodePath\] Navigation and Task Stacks \(Controlling the behavior of the task stack\)](https://github.com/codepath/android_guides/wiki/Navigation-and-Task-Stacks)
 * [Activity启动模式二 - 四种标志位](http://ltlovezh.com/2016/09/03/Activity%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F%E4%BA%8C/)
+* [不怕面试再问 Activity，一次彻底地梳理清楚！](https://mp.weixin.qq.com/s/FdfBfyePoX2BI5OkXtmICA)
 
 ## Broadcast
 
