@@ -16,7 +16,7 @@
 
 * [\[CodePath\] Working with the ImageView \(Drawables, Size and Scale, Density, Raw Bitmaps\) ](https://github.com/codepath/android_guides/wiki/Working-with-the-ImageView)
 * [ Android总结 - ImageView](http://blog.csdn.net/siobhan/article/details/51291593)
-* [Android Bitmap面面观](http://www.jayfeng.com/2016/03/22/Android-Bitmap面面观/)
+* [Android Bitmap面面观](https://juejin.cn/post/6844903433313452040)
 * [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=0&key=41ecb04b05111003d79189315d2ebdda9a5dc312d579a616c9358c3994f94eaf700ba910fb56c37d348fbe317cbce872&ascene=0&uin=NTMyODkxMDE1&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.2+build%2815C50%29&version=11020201&pass_ticket=uq%2BZUPewIgxSiSrWWGqLMnd8%2Fy8eclx6vr92bs5s8Q9YVusWCl2cgRirA7iVDRu%2B)
 * [ Android 高仿微信语音聊天页面高斯模糊效果](http://blog.csdn.net/zuiwuyuan/article/details/52125804)
 * [ 教你一分钟实现动态模糊效果](http://blog.csdn.net/wl9739/article/details/51955598)
