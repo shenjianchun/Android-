@@ -59,6 +59,7 @@
 * [Android 性能优化典范系列](http://hukai.me/blog/categories/android-performance/)
 * [Android客户端性能优化（魅族资深工程师毫无保留奉献）](http://blog.tingyun.com/web/article/detail/155)
 * [大厂App 性能分析与优化方案研究](https://mp.weixin.qq.com/s/Olgy26LTtonEQ63d3TjWIQ)
+* [分享一波 Android 性能优化的总结！](https://mp.weixin.qq.com/s/MfIT_sV0xwt1UnGQWXCJIA)
 
 ### UI 优化
 
