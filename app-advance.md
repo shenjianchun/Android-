@@ -72,6 +72,7 @@
 #### 知识点
 
 * [Android内存优化（一）DVM和ART原理初探](https://juejin.im/post/59362bdbfe88c20061dccf30)
+* [探索 Android 内存优化方法](https://juejin.cn/post/6844903897958449166)
 * [Android 强、软、弱、虚引用 区别和使用场景](https://mp.weixin.qq.com/s/h5MzWRsfRTrrH4z3QIrSzQ)
 * [安卓面试题 5 – 关于内存泄漏](http://www.iwfu.me/2016/08/02/安卓面试题-5-关于内存泄漏/)
 * [Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)
