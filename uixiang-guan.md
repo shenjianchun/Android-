@@ -184,10 +184,10 @@
   * [Android自绘动画实现与优化实战——以Tencent OS录音机波形动画为实例](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577211&idx=1&sn=2619c7df79f675e45e87891b7eb17669&scene=1&srcid=0617qaWHXlvtrbom7Lq0z9pe#rd)
 * Interpolator 动画插值器
   * [PathInterpolator简介 , 贝塞尔曲线](https://github.com/kenaiX/snowball/tree/master/PathInterpolator简介)
-  * [Android 自带Interpolator（插值器）讲解](http://blog.csdn.net/lgaojiantong/article/details/39451243)
+    * [Android 自带Interpolator（插值器）讲解](http://blog.csdn.net/lgaojiantong/article/details/39451243)
 * 其他
   * [开发者选项中动画时长原理分析\(Android M\)](http://blog.csdn.net/guoqifa29/article/details/50458101)
-  * [Android动画FillEnabled、FillBefore、FillAfter理解](http://blog.csdn.net/wiker_yong/article/details/40424667)
+    * [Android动画FillEnabled、FillBefore、FillAfter理解](http://blog.csdn.net/wiker_yong/article/details/40424667)
 
 ## Custom Views 自定义控件 自定义View
 

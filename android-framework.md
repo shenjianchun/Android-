@@ -33,3 +33,18 @@
 
 * [Android UI 渲染机制的演进，你需要了解什么？](https://mp.weixin.qq.com/s/psrDADxwl782Fbs_vzxnQg)
 
+## 消息机制
+
+* 
+
+
+
+
+
+
+ 
+
+
+
+
+
